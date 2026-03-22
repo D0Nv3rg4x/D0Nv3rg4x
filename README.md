@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Estudiante+de+Redes+%F0%9F%8C%90;Developer+en+construcci%C3%B3n+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%E2%9C%A8;Explorando+el+universo+del+c%C3%B3digo+%F0%9F%AA%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Estudiante+de+Telecomunicaciones+%F0%9F%8C%90;Developer+en+construcci%C3%B3n+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%E2%9C%A8;Explorando+el+universo+del+c%C3%B3digo+%F0%9F%AA%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,13 +20,13 @@
 ```
     *    .  *       .             *    .        *
   .   *        ✦           .          *    ✦
-        .   ╔═══════════════════════════════╗
-  *         ║  > Javier // D0Nv3rg4x       ║   .
-    .        ║  > Ubicación: Santiago, Chile ║
-         *   ║  > Carrera: Redes            ║       *
-   ✦         ║  > Estado: Aprendiendo       ║  ✦
-        .    ║  > Pasión: Tech + Astronomía ║
-  *          ╚═══════════════════════════════╝       .
+        .   ╔═══════════════════════════════════╗
+  *         ║  > Javier // D0Nv3rg4x            ║   .
+    .       ║  > Ubicación: Chile               ║
+         *  ║  > Carrera: Ig.Telecomunicaciones ║       *
+   ✦        ║  > Estado: Aprendiendo            ║  ✦
+        .   ║  > Pasión: Tech + Astronomía      ║
+  *         ╚═══════════════════════════════════╝       .
      .    *         .        *       .
 ```
 
@@ -136,8 +136,9 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0b1120?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:tuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-0b1120?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:hackerdarkeye@gamilcom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/javier-bonilla-3a2269195/)
+[![Instagram](https://img.shields.io/badge/Instagram-0b1120?style=for-the-badge&logo=instagram&logoColor=e1306c)](https://instagram.com/d0n.v3rg4xx/)
 
 </div>
 
